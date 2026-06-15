@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MoePortal.Api/MoePortal.Api.csproj" />
+  <Project Path="MoePortal.Core/MoePortal.Core.csproj" />
+  <Project Path="MoePortal.Infrastructure/MoePortal.Infrastructure.csproj" />
+  <Project Path="MoePortal.Tests/MoePortal.Tests.csproj" />
+</Solution>
